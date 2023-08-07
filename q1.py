@@ -5,7 +5,6 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-# Replace these with your registered credentials
 CLIENT_ID = "b46118f0-fbde-4b16-a4b1-6ae6ad718b27"
 CLIENT_SECRET = "XOyolORPasKWODAN"
 BASE_URL = "http://20.244.56.144"
